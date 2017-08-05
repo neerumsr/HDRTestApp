@@ -1,0 +1,35 @@
+/**********************************************************************************************************************
+    WARNING : This file is NOT editable, since it is overwritten by the latest one in the beginning of every build.
+***********************************************************************************************************************/
+android {
+    compileSdkVersion 24
+    buildToolsVersion '24.0.3'
+
+    // Refer the following signing config as needed
+    // NOTE : The keystore files are provided by galaxy-pack through online, and located in sec folder
+    signingConfigs {
+        release {
+            storeFile file("app/sec/samsung_test.keystore")
+            storePassword "android"
+            keyAlias "testkey"
+            keyPassword "android"
+        }
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+        }
+    }
+
+    lintOptions {
+        checkReleaseBuilds true
+        ignoreWarnings false
+        xmlReport true
+        xmlOutput file("build/outputs/lint-results.xml")
+        htmlReport true
+        htmlOutput file("build/outputs/lint-results.html")
+    }
+}
+
+

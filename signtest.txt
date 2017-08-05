@@ -1,0 +1,2072 @@
+
+sm      2128 Fri Nov 30 00:00:00 PST 1979 AndroidManifest.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm    2608956 Fri Nov 30 00:00:00 PST 1979 classes.dex
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       396 Fri Nov 30 00:00:00 PST 1979 res/anim/abc_fade_in.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       396 Fri Nov 30 00:00:00 PST 1979 res/anim/abc_fade_out.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       860 Fri Nov 30 00:00:00 PST 1979 res/anim/abc_grow_fade_in_from_bottom.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       512 Fri Nov 30 00:00:00 PST 1979 res/anim/abc_popup_enter.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       512 Fri Nov 30 00:00:00 PST 1979 res/anim/abc_popup_exit.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       860 Fri Nov 30 00:00:00 PST 1979 res/anim/abc_shrink_fade_out_from_bottom.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       400 Fri Nov 30 00:00:00 PST 1979 res/anim/abc_slide_in_bottom.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       400 Fri Nov 30 00:00:00 PST 1979 res/anim/abc_slide_in_top.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       400 Fri Nov 30 00:00:00 PST 1979 res/anim/abc_slide_out_bottom.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       400 Fri Nov 30 00:00:00 PST 1979 res/anim/abc_slide_out_top.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       472 Fri Nov 30 00:00:00 PST 1979 res/color-v11/abc_background_cache_hint_selector_material_dark.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       472 Fri Nov 30 00:00:00 PST 1979 res/color-v11/abc_background_cache_hint_selector_material_light.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       504 Fri Nov 30 00:00:00 PST 1979 res/color-v23/abc_btn_colored_borderless_text_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       548 Fri Nov 30 00:00:00 PST 1979 res/color-v23/abc_color_highlight_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       628 Fri Nov 30 00:00:00 PST 1979 res/color-v23/abc_tint_btn_checkable.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1128 Fri Nov 30 00:00:00 PST 1979 res/color-v23/abc_tint_default.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       672 Fri Nov 30 00:00:00 PST 1979 res/color-v23/abc_tint_edittext.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       504 Fri Nov 30 00:00:00 PST 1979 res/color-v23/abc_tint_seek_thumb.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       672 Fri Nov 30 00:00:00 PST 1979 res/color-v23/abc_tint_spinner.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       628 Fri Nov 30 00:00:00 PST 1979 res/color-v23/abc_tint_switch_thumb.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       668 Fri Nov 30 00:00:00 PST 1979 res/color-v23/abc_tint_switch_track.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       468 Fri Nov 30 00:00:00 PST 1979 res/color/abc_primary_text_disable_only_material_dark.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       468 Fri Nov 30 00:00:00 PST 1979 res/color/abc_primary_text_disable_only_material_light.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       468 Fri Nov 30 00:00:00 PST 1979 res/color/abc_primary_text_material_dark.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       468 Fri Nov 30 00:00:00 PST 1979 res/color/abc_primary_text_material_light.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       596 Fri Nov 30 00:00:00 PST 1979 res/color/abc_search_url_text.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       468 Fri Nov 30 00:00:00 PST 1979 res/color/abc_secondary_text_material_dark.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       468 Fri Nov 30 00:00:00 PST 1979 res/color/abc_secondary_text_material_light.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       468 Fri Nov 30 00:00:00 PST 1979 res/color/switch_thumb_material_dark.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       468 Fri Nov 30 00:00:00 PST 1979 res/color/switch_thumb_material_light.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       287 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       227 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       404 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       464 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       563 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1548 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1748 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       229 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       171 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       202 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       404 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       226 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       215 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       389 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       263 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_star_black_16dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       522 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_star_black_36dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       668 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_star_black_48dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       197 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_star_half_black_16dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       328 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       431 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_ic_star_half_black_48dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       167 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       244 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_list_focused_holo.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       212 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       212 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_list_pressed_holo_dark.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       212 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       239 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       240 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_list_selector_disabled_holo_light.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       817 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1256 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_popup_background_mtrl_mult.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       201 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       196 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       272 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       214 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       201 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       368 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       538 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_switch_track_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       199 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       277 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       277 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_text_select_handle_left_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       398 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       396 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_text_select_handle_middle_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       263 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       262 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_text_select_handle_right_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       192 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       198 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       182 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       182 Fri Nov 30 00:00:00 PST 1979 res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       199 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       400 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-hdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       367 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-hdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       127 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       253 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       342 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       178 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       494 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-xhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       483 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       260 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       705 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-xxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       593 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-xxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       325 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       905 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       518 Fri Nov 30 00:00:00 PST 1979 res/drawable-ldrtl-xxxhdpi-v17/abc_spinner_mtrl_am_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       274 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       214 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       321 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_btn_check_to_on_mtrl_015.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       324 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       356 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1047 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1124 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       225 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       173 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       133 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       251 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       152 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       139 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       270 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       193 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_star_black_16dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       364 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_star_black_36dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       467 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_star_black_48dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       146 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_star_half_black_16dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       253 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_star_half_black_36dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       310 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_ic_star_half_black_48dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       167 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_list_divider_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       222 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_list_focused_holo.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       211 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_list_longpressed_holo.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       211 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       211 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_list_pressed_holo_light.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       226 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       227 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_list_selector_disabled_holo_light.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       589 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       850 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_popup_background_mtrl_mult.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       159 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       145 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       197 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       208 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       197 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       340 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       428 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_switch_track_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       192 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       203 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       203 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_text_select_handle_left_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       311 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       310 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_text_select_handle_middle_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       187 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       186 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_text_select_handle_right_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       186 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       182 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       181 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       180 Fri Nov 30 00:00:00 PST 1979 res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       336 Fri Nov 30 00:00:00 PST 1979 res/drawable-v21/abc_action_bar_item_background_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1908 Fri Nov 30 00:00:00 PST 1979 res/drawable-v21/abc_btn_colored_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1360 Fri Nov 30 00:00:00 PST 1979 res/drawable-v21/abc_edit_text_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       380 Fri Nov 30 00:00:00 PST 1979 res/drawable-v23/abc_control_background_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       297 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       281 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       432 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       651 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       785 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      2259 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      2606 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       234 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       228 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       178 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       492 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       243 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       183 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       480 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       333 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_star_black_16dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       652 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_star_black_36dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       887 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_star_black_48dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       235 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       421 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_star_half_black_36dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       548 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_ic_star_half_black_48dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       167 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       244 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_list_focused_holo.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       214 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       214 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_list_pressed_holo_dark.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       214 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_list_pressed_holo_light.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       254 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       253 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1122 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1785 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       267 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       267 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       391 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       219 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       207 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       489 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       741 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       205 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       336 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       335 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_text_select_handle_left_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       583 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       585 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_text_select_handle_middle_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       319 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       318 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_text_select_handle_right_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       198 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       197 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       190 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       190 Fri Nov 30 00:00:00 PST 1979 res/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       305 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       307 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       593 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       984 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1208 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      3755 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      2804 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       246 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       224 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       263 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       710 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       348 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       262 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       700 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       459 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       983 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1291 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_star_black_48dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       309 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       577 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       789 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_ic_star_half_black_48dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       171 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       245 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       221 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       221 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       221 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       307 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       305 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1779 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      2774 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       322 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       403 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       595 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       218 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       212 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       595 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1060 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       210 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       420 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       420 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_text_select_handle_left_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       752 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       753 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_text_select_handle_middle_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       422 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       422 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       202 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       204 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       193 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       196 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       275 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       476 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_btn_check_to_on_mtrl_015.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       785 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       946 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      3524 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      3853 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       327 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       910 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       461 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       305 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       899 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       599 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_ic_star_black_16dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1269 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1680 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_ic_star_black_48dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       376 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_ic_star_half_black_16dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       760 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       991 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_ic_star_half_black_48dp.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       415 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       631 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       513 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1025 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_switch_track_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       208 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       513 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       513 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       513 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       513 Fri Nov 30 00:00:00 PST 1979 res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       700 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_btn_borderless_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       560 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_btn_check_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1092 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_btn_default_mtrl_shape.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       560 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_btn_radio_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       436 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_cab_background_internal_bg.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       412 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_cab_background_top_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       844 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_dialog_material_background.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       908 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_ic_ab_back_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1248 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_ic_arrow_drop_right_black_24dp.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       924 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_ic_clear_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       832 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_ic_go_search_api_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1132 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_ic_menu_overflow_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1172 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_ic_search_api_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1208 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_ic_voice_search_api_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1136 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_item_background_holo_dark.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1136 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_item_background_holo_light.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       508 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_list_selector_background_transition_holo_dark.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       508 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_list_selector_background_transition_holo_light.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1208 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_list_selector_holo_dark.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1208 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_list_selector_holo_light.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       812 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_ratingbar_indicator_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       812 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_ratingbar_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       812 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_ratingbar_small_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1232 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_seekbar_thumb_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       600 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_seekbar_tick_mark_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1532 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_seekbar_track_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1328 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_spinner_textfield_background_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       560 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_switch_thumb_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       564 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_tab_indicator_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       600 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_text_cursor_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       880 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_textfield_search_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       812 Fri Nov 30 00:00:00 PST 1979 res/drawable/abc_vector_test.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       940 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_action_bar_title_item.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       448 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_action_bar_up_container.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       396 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_action_bar_view_list_nav_layout.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       804 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_action_menu_item_layout.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       584 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_action_menu_layout.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       500 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_action_mode_bar.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       704 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_action_mode_close_item_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1728 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_activity_chooser_view.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1272 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_activity_chooser_view_list_item.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1648 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_alert_dialog_button_bar_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      3328 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_alert_dialog_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1156 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_dialog_title_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       396 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_expanded_menu_layout.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       536 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_list_menu_item_checkbox.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       688 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_list_menu_item_icon.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1404 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_list_menu_item_layout.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       536 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_list_menu_item_radio.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       856 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_popup_menu_header_item_layout.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1884 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_popup_menu_item_layout.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       556 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_screen_content_include.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       872 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_screen_simple.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       828 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_screen_simple_overlay_action_mode.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1632 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_screen_toolbar.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      2204 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_search_dropdown_item_icons_2line.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      3568 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_search_view.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       768 Fri Nov 30 00:00:00 PST 1979 res/layout/abc_select_dialog_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       704 Fri Nov 30 00:00:00 PST 1979 res/layout/activity_main.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       616 Fri Nov 30 00:00:00 PST 1979 res/layout/notification_media_action.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       792 Fri Nov 30 00:00:00 PST 1979 res/layout/notification_media_cancel_action.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1780 Fri Nov 30 00:00:00 PST 1979 res/layout/notification_template_big_media.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1920 Fri Nov 30 00:00:00 PST 1979 res/layout/notification_template_big_media_narrow.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      2848 Fri Nov 30 00:00:00 PST 1979 res/layout/notification_template_lines.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1428 Fri Nov 30 00:00:00 PST 1979 res/layout/notification_template_media.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       660 Fri Nov 30 00:00:00 PST 1979 res/layout/notification_template_part_chronometer.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       660 Fri Nov 30 00:00:00 PST 1979 res/layout/notification_template_part_time.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       648 Fri Nov 30 00:00:00 PST 1979 res/layout/select_dialog_item_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       872 Fri Nov 30 00:00:00 PST 1979 res/layout/select_dialog_multichoice_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       872 Fri Nov 30 00:00:00 PST 1979 res/layout/select_dialog_singlechoice_material.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm       508 Fri Nov 30 00:00:00 PST 1979 res/layout/support_simple_spinner_dropdown_item.xml
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      3122 Fri Nov 30 00:00:00 PST 1979 res/mipmap-hdpi-v4/ic_launcher.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      1956 Fri Nov 30 00:00:00 PST 1979 res/mipmap-mdpi-v4/ic_launcher.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      4366 Fri Nov 30 00:00:00 PST 1979 res/mipmap-xhdpi-v4/ic_launcher.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      7007 Fri Nov 30 00:00:00 PST 1979 res/mipmap-xxhdpi-v4/ic_launcher.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm      9490 Fri Nov 30 00:00:00 PST 1979 res/mipmap-xxxhdpi-v4/ic_launcher.png
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+sm    205056 Fri Nov 30 00:00:00 PST 1979 resources.arsc
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+        1211 Fri Nov 30 00:00:00 PST 1979 META-INF/CERT.RSA
+       42943 Fri Nov 30 00:00:00 PST 1979 META-INF/CERT.SF
+s      42881 Fri Nov 30 00:00:00 PST 1979 META-INF/MANIFEST.MF
+
+      X.509, CN=Android Debug, O=Android, C=US
+      [certificate is valid from 10/23/15 12:24 PM to 10/15/45 12:24 PM]
+      [CertPath not validated: Path does not chain with any of the trust anchors]
+
+
+  s = signature was verified 
+  m = entry is listed in manifest
+  k = at least one certificate was found in keystore
+  i = at least one certificate was found in identity scope
+
+jar verified.
+
+Warning: 
+This jar contains entries whose certificate chain is not validated.
+This jar contains signatures that does not include a timestamp. Without a timestamp, users may not be able to validate this jar after the signer certificate's expiration date (2045-10-15) or after any future revocation date.

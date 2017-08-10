@@ -6,12 +6,14 @@ package com.samsung.mno.hdrtest;
  * Modified by Siva on 7/31/17.
  */
 
+import java.io.File;
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.graphics.PixelFormat;
 import android.media.MediaPlayer;
@@ -28,6 +30,7 @@ import android.view.WindowManager;
 import android.widget.Button;
 import android.media.AudioManager;
 import android.widget.CheckBox;
+import android.widget.TextView;
 
 import com.samsung.mno.hdrtest.R;
 
@@ -55,15 +58,27 @@ public class PlayerActivity extends Activity
     boolean pausing = false;
     String TAG = "MNO_Team2_HDRTestApp";
 
+    private static final int REQUEST_PICK_FILE = 1;
+    private TextView filePath;
+    private Button Browse;
+    private File selectedFile = new File("/sdcard/dummy.txt");
+
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         // TODO Auto-generated method stub
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         CheckBox chkbxAHDRCaps = (CheckBox) findViewById(R.id.aHDRcheck);
         CheckBox chkbxSHDRCaps = (CheckBox) findViewById(R.id.sHDRcheckBx);
         chkbxAHDRCaps.setChecked(false);
         chkbxSHDRCaps.setChecked(false);
+
+        // File browse inits
+
+        filePath = (TextView)findViewById(R.id.file_path);
+        Browse = (Button)findViewById(R.id.browse);
 
         //Android API to check HDR capabilities
         WindowManager wm = (WindowManager) this.getSystemService(Context.WINDOW_SERVICE);
@@ -90,7 +105,7 @@ public class PlayerActivity extends Activity
 
         Button buttonPlayVideo = (Button) findViewById(R.id.playvideoplayer);
         Button buttonPauseVideo = (Button) findViewById(R.id.pausevideoplayer);
-        Button buttonAHDRVideo = (Button) findViewById(R.id.playAndroidHDRvideoplayer);
+        final Button buttonAHDRVideo = (Button) findViewById(R.id.playAndroidHDRvideoplayer);
 
         getWindow().setFormat(PixelFormat.UNKNOWN);
         surfaceView = (SurfaceView) findViewById(R.id.surfaceview);
@@ -113,8 +128,13 @@ public class PlayerActivity extends Activity
 
                 mediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
                 mediaPlayer.setDisplay(surfaceHolder);
-                //String sourceUrl = Environment.getExternalStorageDirectory().getPath() + "/" + "Sony_4K_HDR_Camp.mp4";
-                String sourceUrl = Environment.getExternalStorageDirectory().getPath() + "/" + "The_World_in_HDR_in_4K_HDR10.mkv";
+                String sourceUrl;
+                if(selectedFile.exists() && !selectedFile.getPath().isEmpty() && ( selectedFile.getPath().contains(".mkv") || selectedFile.getPath().contains(".mp4"))) {
+                    sourceUrl = selectedFile.getPath();
+                } else {
+                    Log.d(TAG, "Wrong or NO file selected");
+                    return;
+                }
 
                 try {
                     mediaPlayer.setDataSource(sourceUrl);
@@ -146,8 +166,13 @@ public class PlayerActivity extends Activity
 
                 mediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
                 mediaPlayer.setDisplay(surfaceHolder);
-               //tring sourceUrl = Environment.getExternalStorageDirectory().getPath() + "/" + "Sony_4K_HDR_Camp.mp4";
-               String sourceUrl = Environment.getExternalStorageDirectory().getPath() + "/" + "The_World_in_HDR_in_4K_HDR10.mkv";
+               String sourceUrl;
+                if(selectedFile.exists() && !selectedFile.getPath().isEmpty() && ( selectedFile.getPath().contains(".mkv") || selectedFile.getPath().contains(".mp4"))) {
+                    sourceUrl = selectedFile.getPath();
+                } else {
+                    Log.d(TAG, "Wrong or NO file selected");
+                    return;
+                }
 
                 try {
                     mediaPlayer.setDataSource(sourceUrl);
@@ -179,6 +204,16 @@ public class PlayerActivity extends Activity
                 }
             }
         });
+
+        Browse.setOnClickListener(new Button.OnClickListener() {
+
+            @Override
+            public void onClick(View arg0) {
+                Intent intent = new Intent(getApplicationContext(), FilePicker.class);
+                startActivityForResult(intent, REQUEST_PICK_FILE);
+            }
+        });
+
     }
 
     @Override
@@ -206,6 +241,8 @@ public class PlayerActivity extends Activity
 
     }
 
+
+
     //HDR API FROM HQ
     private void setParameter(MediaPlayer player, int key, String value) {
         String className = "android.media.MediaPlayer";
@@ -222,6 +259,28 @@ public class PlayerActivity extends Activity
         } catch (ClassNotFoundException | InvocationTargetException |
                 IllegalAccessException | NoSuchMethodException e) {
             e.printStackTrace();
+        }
+    }
+
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+
+        if(resultCode == RESULT_OK) {
+
+            switch(requestCode) {
+
+                case REQUEST_PICK_FILE:
+
+                    if(data.hasExtra(FilePicker.EXTRA_FILE_PATH)) {
+
+                        selectedFile = new File
+                                (data.getStringExtra(FilePicker.EXTRA_FILE_PATH));
+                        filePath.setText(selectedFile.getPath());
+                        Log.d(TAG, "Selected file is "+selectedFile.getPath());
+                    }
+                    break;
+            }
         }
     }
 

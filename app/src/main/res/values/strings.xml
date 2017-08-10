@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">HDRTestApp</string>
+    <string name="caps_title">HDR Caps Check</string>
+    <string name="ahdr_caps_chkbx">A HDR Caps</string>
+    <string name="shdr_caps_chkbx">S HDR Caps</string>
+
 </resources>
